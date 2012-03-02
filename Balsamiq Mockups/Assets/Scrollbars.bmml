@@ -1,0 +1,142 @@
+<mockup version="1.0" skin="sketch" measuredW="987" measuredH="563" mockupW="926" mockupH="542">
+  <controls>
+    <control controlID="7" controlTypeID="__group__" x="61" y="22" w="48" h="541" measuredW="48" measuredH="541" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Vertical%20Scrollbar%20Large</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="48" h="541" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="7"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="1" y="500" w="46" h="41" measuredW="56" measuredH="38" zOrder="1" locked="false" isInGroup="7">
+          <controlProperties>
+            <icon>DownFillTriangleIcon%7Cmedium</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="1" y="0" w="46" h="41" measuredW="56" measuredH="38" zOrder="2" locked="false" isInGroup="7">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Cmedium</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="9" y="45" w="31" h="167" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="7">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="148" y="21" w="32" h="541" measuredW="32" measuredH="541" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Vertical%20Scrollbar%20Medium</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="1" y="0" w="31" h="541" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="8"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="0" y="513" w="30" h="28" measuredW="40" measuredH="27" zOrder="1" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>DownFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="1" y="0" w="30" h="26" measuredW="40" measuredH="27" zOrder="2" locked="false" isInGroup="8">
+          <controlProperties>
+            <icon>UpFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="7" y="45" w="17" h="167" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="8">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="207" y="21" w="24" h="541" measuredW="24" measuredH="541" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Vertical%20Scrollbar%20Buttonless</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="24" h="541" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="9"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="5" y="8" w="13" h="183" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="335" y="537" w="652" h="24" measuredW="652" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Horizontal%20Scrollbar%20Buttonless</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="652" h="24" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="6" y="4" w="441" h="14" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="335" y="497" w="652" h="32" measuredW="652" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Horizontal%20Scrollbar%20Medium</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="652" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="17"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="5" w="388" h="21" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="0" y="2" w="30" h="28" measuredW="40" measuredH="27" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="620" y="3" w="30" h="28" measuredW="40" measuredH="27" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="335" y="434" w="652" h="48" measuredW="652" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Horizontal%20Scrollbar%20Large</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="652" h="48" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="18"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="35" y="8" w="388" h="32" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="0" y="3" w="30" h="42" measuredW="40" measuredH="27" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="620" y="5" w="30" h="42" measuredW="40" measuredH="27" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <icon>RightFillTriangleIcon%7Cxsmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

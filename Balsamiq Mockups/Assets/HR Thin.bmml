@@ -1,0 +1,57 @@
+<mockup version="1.0" skin="sketch" measuredW="1026" measuredH="135" mockupW="960" mockupH="70">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="66" y="65" w="960" h="10" measuredW="960" measuredH="10" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>HR%20Thin%2C%20Horizontal%20Rule%20Thin</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="__group__" x="0" y="0" w="960" h="10" measuredW="960" measuredH="10" zOrder="0" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="10" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>16777215</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="5" w="960" h="1" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>0</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="723" y="169" w="303" h="287" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AA%20hairline%20horizontal%20rule.%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Balsamiq%20on%2014%20Apr.%202011.</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="66" y="125" w="960" h="10" measuredW="960" measuredH="10" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>HR%20Thin%20Gray%2C%20Horizontal%20Rule%20Thin%20Gray</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="__group__" x="0" y="0" w="960" h="10" measuredW="960" measuredH="10" zOrder="0" locked="false" isInGroup="2">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="960" h="10" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>16777215</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="5" w="960" h="1" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

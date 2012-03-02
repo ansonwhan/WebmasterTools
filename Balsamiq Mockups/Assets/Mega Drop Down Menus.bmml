@@ -1,0 +1,246 @@
+<mockup version="1.0" skin="sketch" measuredW="1327" measuredH="587" mockupW="1261" mockupH="569">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::StickyNote" x="1024" y="18" w="303" h="280" measuredW="109" measuredH="123" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AMega%20Drop%20Down%20Menus.%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Balsamiq%20on%2012%20Apr.%202011.</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="66" y="29" w="896" h="44" measuredW="896" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Mega%20Drop%20Down%20Inactive</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="896" h="44" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="16"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="366" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="532" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="698" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="170" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="5" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VRule" x="501" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="6" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::VRule" x="672" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="7" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="200" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::VRule" x="340" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="9" locked="false" isInGroup="16">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="66" y="104" w="896" h="223" measuredW="896" measuredH="223" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Mega%20Drop%20Down%20Full%20Active</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="896" h="44" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="17"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="366" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="532" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="698" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="170" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="6" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VRule" x="501" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="7" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::VRule" x="672" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="200" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::VRule" x="340" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="10" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="173" y="0" w="169" h="44" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="17">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="31" w="896" h="192" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::VRule" x="172" y="58" w="-1" h="151" measuredW="5" measuredH="100" zOrder="12" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::VRule" x="340" y="57" w="-1" h="151" measuredW="5" measuredH="100" zOrder="13" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::VRule" x="500" y="56" w="-1" h="151" measuredW="5" measuredH="100" zOrder="14" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::VRule" x="672" y="55" w="-1" h="151" measuredW="5" measuredH="100" zOrder="15" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="66" y="364" w="896" h="223" measuredW="896" measuredH="223" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Mega%20Drop%20Down%20Narrow%20Active</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="896" h="44" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="20"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="366" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="532" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="698" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+            <underline>false</underline>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::VRule" x="170" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="6" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VRule" x="501" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="7" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::VRule" x="672" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="200" y="12" w="140" h="21" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>0</color>
+            <text>Menu%20Item</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::VRule" x="340" y="8" w="-1" h="28" measuredW="5" measuredH="100" zOrder="10" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="173" y="0" w="170" h="44" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="20">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>2848996</color>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="175" y="31" w="331" h="192" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>15658734</color>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::VRule" x="340" y="57" w="-1" h="151" measuredW="5" measuredH="100" zOrder="12" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

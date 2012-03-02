@@ -1,0 +1,1058 @@
+<mockup version="1.0" skin="sketch" measuredW="1174" measuredH="797" mockupW="1109" mockupH="775">
+  <controls>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="67" y="37" w="571" h="29" measuredW="203" measuredH="26" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%7Bcolor%3A%234d85c7%7DCloud%20of%20Pill-shaped%20Tags%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="67" y="224" w="556" h="29" measuredW="299" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%7Bcolor%3A%234d85c7%7DCloud%20of%20Pill-shaped%20Tags%20with%20Counts%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="67" y="83" w="442" h="106" measuredW="442" measuredH="106" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Cloud%20Pills</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="102" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>agriculture</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="105" y="0" w="60" h="32" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>autos</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="168" y="0" w="82" h="32" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>business</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="253" y="0" w="75" h="32" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>cities</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="331" y="0" w="75" h="32" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>companies</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="37" w="72" h="32" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>drama</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="75" y="37" w="85" h="32" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>electronics</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="163" y="37" w="113" h="32" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>entertainment</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="279" y="37" w="85" h="32" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>finance</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="367" y="37" w="75" h="32" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>games</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="74" w="72" h="32" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>health</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::RoundButton" x="75" y="74" w="57" h="32" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>home</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::RoundButton" x="135" y="74" w="78" h="32" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>medicine</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::RoundButton" x="216" y="74" w="64" h="32" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>movies</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::RoundButton" x="283" y="74" w="44" h="32" measuredW="32" measuredH="32" zOrder="14" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>news</text>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::RoundButton" x="330" y="74" w="67" h="32" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="60">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>people</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="94" controlTypeID="__group__" x="67" y="268" w="495" h="108" measuredW="495" measuredH="108" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Cloud%20Pills%20Count</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="2" w="110" h="32" measuredW="110" measuredH="32" zOrder="0" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="110" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>agriculture</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="78" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>7</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="114" y="2" w="75" h="32" measuredW="75" measuredH="32" zOrder="1" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="75" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>autos</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="4" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>81</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="193" y="0" w="91" h="32" measuredW="91" measuredH="32" zOrder="2" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="91" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>business</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="61" y="4" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>62</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="288" y="1" w="73" h="32" measuredW="73" measuredH="32" zOrder="3" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="73" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>cities</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>21</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="365" y="0" w="104" h="32" measuredW="104" measuredH="32" zOrder="4" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="104" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>companies</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="72" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>34</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="0" y="39" w="78" h="32" measuredW="78" measuredH="32" zOrder="5" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="78" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>drama</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="47" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>12</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="80" y="39" w="107" h="32" measuredW="107" measuredH="32" zOrder="6" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="107" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>electronics</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="72" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>9</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="189" y="39" w="125" h="32" measuredW="125" measuredH="32" zOrder="7" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="125" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="7">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>entertainment</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="94" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>73</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="316" y="39" w="85" h="32" measuredW="85" measuredH="32" zOrder="8" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="85" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="8">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>finance</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="55" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>16</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="__group__" x="403" y="39" w="83" h="32" measuredW="83" measuredH="32" zOrder="9" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="83" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>games</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="52" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>98</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="10" controlTypeID="__group__" x="0" y="76" w="80" h="32" measuredW="80" measuredH="32" zOrder="10" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="80" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="10">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>health</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="48" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="10">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>18</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="11" controlTypeID="__group__" x="84" y="76" w="72" h="32" measuredW="72" measuredH="32" zOrder="11" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="72" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="11">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>home</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="40" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="11">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>48</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="12" controlTypeID="__group__" x="160" y="76" w="92" h="32" measuredW="92" measuredH="32" zOrder="12" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="92" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="12">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>medicine</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="61" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="12">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>29</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="13" controlTypeID="__group__" x="256" y="76" w="81" h="32" measuredW="81" measuredH="32" zOrder="13" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="81" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="13">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>movies</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="47" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="13">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>37</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="14" controlTypeID="__group__" x="341" y="76" w="66" h="32" measuredW="66" measuredH="32" zOrder="14" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="66" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="14">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>news</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="36" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="14">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>56</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="15" controlTypeID="__group__" x="411" y="76" w="84" h="32" measuredW="84" measuredH="32" zOrder="15" locked="false" isInGroup="94">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="84" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="15">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>people</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="50" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="15">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>9</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::StickyNote" x="871" y="22" w="303" h="336" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AThis%20is%20a%20set%20of%20tag%20clouds%20and%20lists%20to%20extend%20your%20library%20beyond%20the%20simple%20tag%20cloud%20built%20into%20Mockups.%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Balsamiq%20on%2022%20Feb%202011.</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="__group__" x="65" y="454" w="113" h="343" measuredW="113" measuredH="343" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Pills%20List</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="16" controlTypeID="__group__" x="0" y="0" w="113" h="343" measuredW="113" measuredH="343" zOrder="0" locked="false" isInGroup="96">
+          <controlProperties>
+            <controlName>List%20of%20Tag%20Pills</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="102" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>agriculture</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="35" w="60" h="32" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>autos</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="69" w="82" h="32" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>business</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="104" w="75" h="32" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>cities</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="138" w="75" h="32" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>companies</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="173" w="72" h="32" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>drama</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="207" w="85" h="32" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>electronics</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="242" w="113" h="32" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>entertainment</text>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="276" w="85" h="32" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>finance</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="311" w="75" h="32" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="16">
+              <controlProperties>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>games</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="65" y="410" w="137" h="29" measuredW="100" measuredH="26" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%7Bcolor%3A%234d85c7%7DList%20of%20Tags%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="300" y="409" w="-1" h="-1" measuredW="195" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%7Bcolor%3A%234d85c7%7DList%20of%20Tags%20with%20Counts%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="__group__" x="300" y="456" w="125" h="338" measuredW="125" measuredH="338" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Pills%20List%20with%20Counts</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="110" h="32" measuredW="110" measuredH="32" zOrder="0" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="110" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>agriculture</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="78" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>7</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="34" w="75" h="32" measuredW="75" measuredH="32" zOrder="1" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="75" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>autos</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="4" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>81</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="68" w="91" h="32" measuredW="91" measuredH="32" zOrder="2" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="91" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>business</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="61" y="4" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>62</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="102" w="73" h="32" measuredW="73" measuredH="32" zOrder="3" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="73" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>cities</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="44" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>21</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="136" w="104" h="32" measuredW="104" measuredH="32" zOrder="4" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="104" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>companies</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="72" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>34</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="0" y="170" w="78" h="32" measuredW="78" measuredH="32" zOrder="5" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="78" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>drama</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="47" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>12</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6" controlTypeID="__group__" x="0" y="204" w="107" h="32" measuredW="107" measuredH="32" zOrder="6" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="107" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="6">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>electronics</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="72" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="6">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>9</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="0" y="238" w="125" h="32" measuredW="125" measuredH="32" zOrder="7" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="125" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="7">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>entertainment</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="94" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>73</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8" controlTypeID="__group__" x="0" y="272" w="85" h="32" measuredW="85" measuredH="32" zOrder="8" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="85" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="8">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>finance</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="55" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="8">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>16</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="__group__" x="0" y="306" w="83" h="32" measuredW="83" measuredH="32" zOrder="9" locked="false" isInGroup="116">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="83" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <align>left</align>
+                <bold>true</bold>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>roundRect</shape>
+                <size>12</size>
+                <text>games</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="52" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <align>center</align>
+                <borderColor>16777215</borderColor>
+                <markup>false</markup>
+                <size>10</size>
+                <text>98</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="118" controlTypeID="__group__" x="592" y="130" w="110" h="32" measuredW="110" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Pill%20and%20Count</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="110" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="118">
+          <controlProperties>
+            <align>left</align>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>tag%20count</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="78" y="5" w="26" h="23" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="118">
+          <controlProperties>
+            <align>center</align>
+            <borderColor>16777215</borderColor>
+            <markup>false</markup>
+            <size>10</size>
+            <text>7</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="592" y="36" w="571" h="29" measuredW="107" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>%7Bcolor%3A%234d85c7%7DTag%20Symbols%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="__group__" x="592" y="83" w="102" h="32" measuredW="102" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Tag%20Pill</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="102" h="32" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="120">
+          <controlProperties>
+            <bold>true</bold>
+            <borderColor>13421772</borderColor>
+            <color>13421772</color>
+            <markup>false</markup>
+            <shape>roundRect</shape>
+            <size>12</size>
+            <text>tag</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

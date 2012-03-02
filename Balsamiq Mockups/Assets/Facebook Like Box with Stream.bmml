@@ -1,0 +1,141 @@
+<mockup version="1.0" skin="sketch" measuredW="274" measuredH="524" mockupW="240" mockupH="493">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="34" y="31" w="240" h="493" measuredW="240" measuredH="493" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="240" h="493" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="82" w="215" h="123" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>12</size>
+            <text>%5BLorem%20ipsum%20dolor%5D%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Pha%20sellus%20nec%20feugiat%20nibh.%20Pellent%20esque%20habitant%20morbi%20tristique%20senectus.%20Phasellus%20nec%20feugiat%20nibh.%20Pellent%20esque%20habitant%20morbi%20tristi%20que%20senectus.</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="69" w="239" h="-1" measuredW="100" measuredH="5" zOrder="2" locked="false" isInGroup="0"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="7" y="9" w="43" h="44" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="0"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="58" y="7" w="171" h="26" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>16</size>
+            <text>COMPANY%20NAME</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="60" y="23" w="171" h="26" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>11</size>
+            <text>on%20Facebook</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="223" y="72" w="-1" h="241" measuredW="16" measuredH="100" zOrder="6" locked="false" isInGroup="0"/>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="205" w="215" h="123" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <size>12</size>
+            <text>%5BLorem%20ipsum%20dolor%5D%20sit%20amet%2C%20consectetur%20adipiscing%20elit.%20Pha%20sellus%20nec%20feugiat%20nibh.%20Pellent%20esque%20habitant%20morbi%20tristique%20senectus.%20Phasellus%20nec%20feugiat%20nibh.%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="309" w="240" h="-1" measuredW="100" measuredH="5" zOrder="8" locked="false" isInGroup="0"/>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="9" y="320" w="215" h="23" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>4144959</color>
+            <size>11</size>
+            <text>1%2C304%20People%20like%20COMPANY%20NAME</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="__group__" x="9" y="344" w="72" h="67" measuredW="72" measuredH="67" zOrder="10" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="10"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="10">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="11" controlTypeID="__group__" x="89" y="344" w="72" h="67" measuredW="72" measuredH="67" zOrder="11" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="11"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="11">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="12" controlTypeID="__group__" x="168" y="344" w="72" h="67" measuredW="72" measuredH="67" zOrder="12" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="12"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="12">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="13" controlTypeID="__group__" x="9" y="411" w="72" h="67" measuredW="72" measuredH="67" zOrder="13" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="13"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="13">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="14" controlTypeID="__group__" x="89" y="411" w="72" h="67" measuredW="72" measuredH="67" zOrder="14" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="14"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="14">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="15" controlTypeID="__group__" x="168" y="411" w="72" h="67" measuredW="72" measuredH="67" zOrder="15" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="56" h="44" measuredW="177" measuredH="145" zOrder="0" locked="false" isInGroup="15"/>
+            <control controlID="28" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="44" w="72" h="23" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="15">
+              <controlProperties>
+                <color>4144959</color>
+                <size>11</size>
+                <text>John%20Doe</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="16" controlTypeID="__group__" x="58" y="40" w="23" h="22" measuredW="23" measuredH="22" zOrder="16" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="61" h="28" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="16">
+              <controlProperties>
+                <align>left</align>
+                <borderColor>13421772</borderColor>
+                <shape>rectangle</shape>
+                <size>11</size>
+                <text>%20%20%20%20%20Like</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="7" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="16">
+              <controlProperties>
+                <icon>ThumbsUpIcon%7Cxsmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::StickyNote" x="331" y="16" w="303" h="336" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>14</size>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%0AEmbedded%20Facebook%20stream%20that%20you%20see%20on%20websites.%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Gabe%20Martin%20on%2019%20May%202010.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

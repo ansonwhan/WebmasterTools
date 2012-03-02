@@ -1,0 +1,133 @@
+<mockup version="1.0" skin="sketch" measuredW="1055" measuredH="725" mockupW="987" mockupH="661">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="68" y="64" w="477" h="264" measuredW="477" measuredH="264" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Slideshow%20With%20Buttons</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="221" w="477" h="43" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="477" h="231" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="0"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="350" y="232" w="65" h="-1" measuredW="48" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Next</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="69" y="229" w="70" h="-1" measuredW="71" measuredH="27" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <direction>left</direction>
+            <text>Previous</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::PointyButton" x="147" y="229" w="197" h="-1" measuredW="142" measuredH="27" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <direction>center</direction>
+            <text>%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20%20%u2022%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="__group__" x="578" y="68" w="477" h="255" measuredW="477" measuredH="255" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Slideshow%20Simple%20Carousel</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="477" h="231" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="441" y="101" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="9" y="101" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="2" locked="false" isInGroup="2">
+          <controlProperties>
+            <direction>left</direction>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="__group__" x="204" y="245" w="70" h="10" measuredW="70" measuredH="10" zOrder="3" locked="false" isInGroup="2">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>3355443</color>
+                <markup>false</markup>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="20" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>10066329</color>
+                <markup>false</markup>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="40" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>10066329</color>
+                <markup>false</markup>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="60" y="0" w="10" h="10" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>10066329</color>
+                <markup>false</markup>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="68" y="407" w="477" h="317" measuredW="477" measuredH="317" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Slideshow%20with%20Horizontal%20Thumbnails</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="477" h="231" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+        <control controlID="9" controlTypeID="__group__" x="0" y="221" w="474" h="96" measuredW="474" measuredH="96" zOrder="1" locked="false" isInGroup="3">
+          <groupChildrenDescriptors>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="474" h="96" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>3355443</color>
+                <markup>false</markup>
+                <shape>rectangle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="16" y="17" w="99" h="70" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="9"/>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="130" y="17" w="99" h="70" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="9"/>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="244" y="17" w="99" h="70" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="9"/>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="358" y="17" w="99" h="70" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="9"/>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="571" y="408" w="477" h="317" measuredW="477" measuredH="317" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Slideshow%20with%20Vertical%20Thumbnails</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="477" h="317" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="4"/>
+        <control controlID="9" controlTypeID="__group__" x="347" y="0" w="130" h="314" measuredW="130" measuredH="314" zOrder="1" locked="false" isInGroup="4">
+          <groupChildrenDescriptors>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="130" h="314" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="9">
+              <controlProperties>
+                <borderColor>3355443</borderColor>
+                <color>3355443</color>
+                <markup>false</markup>
+                <shape>rectangle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="16" y="17" w="99" h="64" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="9"/>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="16" y="89" w="99" h="64" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="9"/>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="16" y="161" w="99" h="64" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="9"/>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="16" y="233" w="99" h="64" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="9"/>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
